@@ -1,4 +1,4 @@
-//variables
+//variables   dfyghujkl;'
 const searchbar = document.querySelector(".searchbar-container");
 const profilecontainer = document.querySelector(".profile-container");
 const root = document.documentElement.style;
